@@ -37,7 +37,7 @@ const EfValidationSample4 = () => {
     if (event.key === 'Enter') {
       handleOnClick();
     }
-  }
+  };
 
   return (
     <div>

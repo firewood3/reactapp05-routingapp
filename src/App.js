@@ -23,12 +23,17 @@ import EfValidationSample2 from "./component2/EfValidationSample2";
 import EfValidationSample3 from "./component2/EfValidationSample3";
 import ValidationSample4 from "./component2/ValidationSample4";
 import EfValidationSample4 from "./component2/EfValidationSample4";
+import ScrollBox from "./scrollbox/ScrollBox";
+import ScrollBoxRoot from "./scrollbox/ScrollBoxRoot";
+import ScrollBoxRoot2 from "./scrollbox/ScrollBoxRoot2";
+import EfScrollBoxRoot from "./scrollbox/EfScrollBoxRoot";
 
 function App() {
   return (
     // <EfRef2/>
     // <ValidationSample4/>
-    <EfValidationSample4/>
+    // <EfValidationSample4/>
+    <EfScrollBoxRoot/>
   );
 }
 
