@@ -27,13 +27,14 @@ import ScrollBox from "./scrollbox/ScrollBox";
 import ScrollBoxRoot from "./scrollbox/ScrollBoxRoot";
 import ScrollBoxRoot2 from "./scrollbox/ScrollBoxRoot2";
 import EfScrollBoxRoot from "./scrollbox/EfScrollBoxRoot";
+import FancyButtonRoot from "./forwardRef/FancyInputRoot";
 
 function App() {
   return (
     // <EfRef2/>
     // <ValidationSample4/>
     // <EfValidationSample4/>
-    <EfScrollBoxRoot/>
+    <FancyButtonRoot/>
   );
 }
 
